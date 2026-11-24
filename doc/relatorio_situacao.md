@@ -1,8 +1,8 @@
 # Relatorio de Situacao - 6 Pilares do Claude Code (Edicao Completa 2026)
 
 **Projeto:** 6pilarccfull
-**Repositorio:** https://github.com/inematds/6pilarccfull (a configurar)
-**GitHub Pages:** https://inematds.github.io/6pilarccfull/ (a ativar)
+**Repositorio:** https://github.com/linnoff88-dev/6pilarccfull (a configurar)
+**GitHub Pages:** https://linnoff88-dev.github.io/ (a ativar)
 **Data:** 2026-03-07
 **Gerado por:** ClaudeClaw
 
@@ -37,7 +37,7 @@
 ## Git
 
 - **SEM REPOSITORIO GIT INICIALIZADO**
-- Remote planejado: git@github.com:inematds/6pilarccfull.git
+- Remote planejado: git@github.com:linnoff88-dev/6pilarccfull.git
 
 ## Plano do Curso (plano_curso_full.md)
 
@@ -125,7 +125,7 @@
 - Secao "Dados do Curso (Marco 2026)" com 6 cards de estatisticas reais
 - Dark/light mode com toggle
 - Responsivo
-- Footer com link INEMA.CLUB
+- Footer com link ARCKHÉ AI
 
 ### curso/trilha1/modulo-1-1.html (Modulo Introducao)
 - 6 topicos expansiveis com "O que e / Por que aprender / Conceitos-chave"
@@ -139,7 +139,7 @@
 ### Prioridade 1 - Estrutura Base
 - [ ] **curso/trilha1/index.html** - Pagina da trilha 1 com 8 cards de modulo (FALHOU - agente hit token limit)
 - [ ] Inicializar git repo
-- [ ] Configurar remote git@github.com:inematds/6pilarccfull.git
+- [ ] Configurar remote git@github.com:linnoff88-dev/6pilarccfull.git
 - [ ] Push inicial
 
 ### Prioridade 2 - Modulos da Trilha 1
@@ -159,7 +159,7 @@
 - [ ] Trilha 6: 8 modulos (6.1-6.8)
 
 ### Prioridade 4 - Portal
-- [ ] Adicionar curso Full ao portal (inema.club) apos publicacao
+- [ ] Adicionar curso Full ao portal (ARCKHÉ AI) apos publicacao
 
 ## Referencias Pesquisadas (Marco 2026)
 

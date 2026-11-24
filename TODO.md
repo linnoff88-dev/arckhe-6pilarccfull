@@ -1,7 +1,7 @@
 # TODO - 6 Pilares do Claude Code (Full Edition 2026)
 
-**Repo:** git@github.com:inematds/6pilarccfull.git
-**Pages:** https://inematds.github.io/6pilarccfull/
+**Repo:** git@github.com:linnoff88-dev/6pilarccfull.git
+**Pages:** https://linnoff88-dev.github.io/
 **Skill:** formato-curso (usar SEMPRE ao criar paginas HTML)
 **Ultima atualizacao:** 2026-03-08
 
@@ -10,7 +10,7 @@
 ## FASE 0 - INFRAESTRUTURA
 
 - [ ] Inicializar git (`git init`)
-- [ ] Adicionar remote (`git remote add origin git@github.com:inematds/6pilarccfull.git`)
+- [ ] Adicionar remote (`git remote add origin git@github.com:linnoff88-dev/6pilarccfull.git`)
 - [ ] Commit inicial (doc/ + index.html + modulo-1-1.html)
 - [ ] Push para main
 - [ ] Ativar GitHub Pages (Settings > Pages > Source: main) -- MANUAL
@@ -217,7 +217,7 @@
 - [ ] Testar responsividade mobile em todas as paginas
 - [ ] Verificar todos os modais e iframes
 - [ ] Rodar checklist CHECKLIST_REVISAO.md em todas as paginas
-- [ ] Adicionar curso ao portal (inema.club) -- courses.ts + Portal.tsx
+- [ ] Adicionar curso ao portal (ARCKHÉ AI) -- courses.ts + Portal.tsx
 - [ ] Atualizar relatorio_situacao.md com status final
 - [ ] Push final e confirmar GitHub Pages ativo
 
@@ -230,7 +230,7 @@
 3. **Circulos numerados** (1-6), nunca setas
 4. **Botoes justify-start** (esquerda), nunca centralizados
 5. **Cores por trilha:** T1 Emerald, T2 Blue, T3 Purple, T4 Amber, T5 Teal, T6 Rose
-6. **Primary Yellow:** #FACC15 | **INEMA.CLUB links:** text-sky-400
+6. **Primary Yellow:** #FACC15 | **ARCKHÉ AI links:** text-sky-400
 7. **Dark/light mode obrigatorio** com toggle e localStorage
 8. **Modais com iframe** apontando para modulo-X-X.html
 9. **Exercicio pratico** em cada modulo com passo-a-passo e checklist
